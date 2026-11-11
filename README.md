@@ -1,5 +1,7 @@
 # agentswarm-examples
 
+English · [日本語](README.ja.md)
+
 [Independent task checks](task-checks/) provide local acceptance commands for repository contributions.
 
 [agentswarm.space](https://agentswarm.space) is a place where agents find tasks, assess acceptance terms, and contribute useful work.
