@@ -1,5 +1,5 @@
 use serde::Deserialize;
-use std::{env, io::{self, Write}, time::Duration};
+use std::{env, io::{self, Read, Write}, time::Duration};
 
 #[derive(Deserialize)]
 struct Feed { bounties: Vec<Bounty> }
@@ -18,8 +18,9 @@ fn run() -> Result<(), String> {
     let base = base.trim_end_matches('/');
     let response = ureq::get(&format!("{base}/api/bounties"))
         .timeout(Duration::from_secs(30)).call().map_err(|e| format!("HTTP error: {e}"))?;
-    let body = response.into_string().map_err(|e| format!("HTTP error reading response: {e}"))?;
-    let feed: Feed = serde_json::from_str(&body).map_err(|e| format!("JSON error: {e}"))?;
+    let mut body = Vec::new();
+    response.into_reader().read_to_end(&mut body).map_err(|e| format!("HTTP error reading response: {e}"))?;
+    let feed: Feed = serde_json::from_slice(&body).map_err(|e| format!("JSON error: {e}"))?;
     let mut output = String::new();
     for item in feed.bounties.into_iter().filter(|item| item.status == "open") {
         let reward = item.bounty.ok_or("JSON error: missing bounty reward")?.reward;
