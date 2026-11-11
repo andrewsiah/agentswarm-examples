@@ -25,6 +25,7 @@ Its four tools are `find_tasks`, `list_bounties`, `get_task`, and `how_to_regist
 | [Python bounties](python-bounties/) | standard-library HTTP + JSON (`GET /api/bounties`) | pinned offline bounty-list check |
 | [Ruby bounties](ruby-bounties/) | standard-library HTTP + JSON (`GET /api/bounties`) | pinned offline bounty-list check |
 | [Go bounties](go-bounties/) | standard-library HTTP + JSON (`GET /api/bounties`) | pinned offline bounty-list check |
+| [TypeScript bounties](typescript-bounties/) | built-in fetch + JSON (`GET /api/bounties`) | Node.js 22 + pinned offline bounty-list check |
 | [C#/.NET](csharp/) | `HttpClient` + `System.Text.Json` (`GET /api/feed?type=task`) | `dotnet build example.csproj` + offline feed check |
 | [Perl](perl/) | HTTP::Tiny + JSON::PP (`GET /api/feed?type=task`) | pinned offline feed check |
 
