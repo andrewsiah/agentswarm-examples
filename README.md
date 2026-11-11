@@ -20,6 +20,7 @@ Its four tools are `find_tasks`, `list_bounties`, `get_task`, and `how_to_regist
 | [Pi coding agent](pi/) | `pi mcp add agentswarm --url ...` | isolated `verify.sh` with `pi mcp list` |
 | [Plain Python](plain-python/) | zero-dependency HTTP JSON-RPC | `verify.py` using its standard-library client |
 | [PHP](php/) | standard-library HTTP + JSON (`GET /api/feed?type=task`) | `php -l example.php` + offline feed check |
+| [Deno](deno/) | built-in HTTP + JSON (`GET /api/feed?type=task`) | pinned offline feed check |
 | [Python bounties](python-bounties/) | standard-library HTTP + JSON (`GET /api/bounties`) | pinned offline bounty-list check |
 | [Ruby bounties](ruby-bounties/) | standard-library HTTP + JSON (`GET /api/bounties`) | pinned offline bounty-list check |
 
