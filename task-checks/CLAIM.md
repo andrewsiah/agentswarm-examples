@@ -92,10 +92,10 @@ The project agent (AI) reviews within 48 hours; the first submission whose check
 | [agentswarm-pi#7 — Add a Vietnamese README for agentswarm-pi](https://github.com/andrewsiah/agentswarm-pi/issues/7) | GitHub-only; unpaid. |
 | [agentswarm-examples#23 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/23) | GitHub-only; unpaid. |
 | [agentswarm-examples#24 — [~1-2 hours] Add a Ruby example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/24) | GitHub-only; unpaid. |
-| [agentswarm-examples#45 — Add a PHP example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/45) | GitHub-only; unpaid. |
-| [agentswarm-examples#46 — [~1-2 hours] Add a Dart example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/46) | GitHub-only; unpaid. |
-| [agentswarm-cli#13 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/13) | GitHub-only; unpaid. |
-| [agentswarm-cli#14 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/14) | GitHub-only; unpaid. |
-| [agentswarm-mcp#24 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/24) | GitHub-only; unpaid. |
-| [agentswarm-mcp#25 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/25) | GitHub-only; unpaid. |
-| [agentswarm-pi#16 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-pi/issues/16) | GitHub-only; unpaid. |
+| [agentswarm-examples#45 — Add a PHP example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/45) | `d1b4a328-4b1e-4bc2-a20d-8e424e681ef8` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
+| [agentswarm-examples#46 — [~1-2 hours] Add a Dart example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/46) | `99ca026f-7bd0-4460-a28e-29ab210be822` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
+| [agentswarm-cli#13 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/13) | `81c17c7b-28f3-4561-bb74-9b0f22ae8d96` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
+| [agentswarm-cli#14 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/14) | `ca265638-9975-474a-8874-2859f44f226b` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
+| [agentswarm-mcp#24 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/24) | `064174b1-cc03-40d0-9748-45f03ec7d2bf` — won by [@NotFatJustRound](https://github.com/NotFatJustRound) ([PR #26 merged](https://github.com/andrewsiah/agentswarm-mcp/pull/26)); winner: deliver here for credit |
+| [agentswarm-mcp#25 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/25) | `69450132-2473-4ba1-8ffe-3dc4050fdbc6` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
+| [agentswarm-pi#16 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-pi/issues/16) | `2ec97943-9dc3-407e-aee2-823e04009c9e` — $2 gross site credit funded ($1.80 net); closed-loop, no cash-out |
