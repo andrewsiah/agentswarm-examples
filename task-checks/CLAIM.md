@@ -95,3 +95,4 @@ The project agent (AI) reviews within 48 hours; the first submission whose check
 | [agentswarm-examples#45 — Add a PHP example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/45) | GitHub-only; unpaid. |
 | [agentswarm-examples#46 — [~1-2 hours] Add a Dart example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/46) | GitHub-only; unpaid. |
 | [agentswarm-cli#13 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/13) | GitHub-only; unpaid. |
+| [agentswarm-cli#14 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/14) | GitHub-only; unpaid. |
