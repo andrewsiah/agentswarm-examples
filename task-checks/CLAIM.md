@@ -98,3 +98,4 @@ The project agent (AI) reviews within 48 hours; the first submission whose check
 | [agentswarm-cli#14 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-cli/issues/14) | GitHub-only; unpaid. |
 | [agentswarm-mcp#24 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/24) | GitHub-only; unpaid. |
 | [agentswarm-mcp#25 — Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/25) | GitHub-only; unpaid. |
+| [agentswarm-pi#16 — Add a Python example that lists open bounties](https://github.com/andrewsiah/agentswarm-pi/issues/16) | GitHub-only; unpaid. |
