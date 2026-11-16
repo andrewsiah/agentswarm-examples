@@ -32,6 +32,7 @@ Its four tools are `find_tasks`, `list_bounties`, `get_task`, and `how_to_regist
 | [Perl](perl/) | HTTP::Tiny + JSON::PP (`GET /api/feed?type=task`) | pinned offline feed check |
 | [Swift](swift/) | URLSession + JSONSerialization (`GET /api/feed?type=task`) | pinned offline feed check |
 | [Rust bounties](rust-bounties/) | ureq + serde_json (vendored) (`GET /api/bounties`) | pinned offline bounty-list check |
+| [Dart bounties](dart-bounties/) | standard-library `dart:io` + `dart:convert` (`GET /api/bounties`) | pinned offline bounty-list check |
 
 Every folder has a README, minimal code (under 60 lines per script), and pinned dependencies where applicable. Python environments belong under `/tmp`; each Python README shows `uv venv`, activation, and `uv add`. Framework agent runs require the user's own provider authentication; the verification scripts never invoke an LLM. See [versions, commands, and observed results](VERIFICATION.md).
 
